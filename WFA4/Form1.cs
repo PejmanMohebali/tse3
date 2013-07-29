@@ -15,7 +15,7 @@ namespace WFA4
         public Form1()
         {
             InitializeComponent();
-            MessageBox.Show("this is a Test.");
+            MessageBox.Show("this is Test2.");
         }
     }
 }
